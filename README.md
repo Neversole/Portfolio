@@ -14,7 +14,7 @@ In this project I performed an analysis to determine the factors that effect the
 
 <img align="left" width="250" height="150" src="https://github.com/Neversole/Portfolio/blob/main/Images/Airplane.jpg"> **[National Transportation Safety Board Accident Analysis](https://github.com/Neversole/NTSB-Accident-Analysis.git)**
 
-In this project I performed an analysis to determine the factors that effect the quality of wine. I also implementd a Random Forest model to predict wine quality. 
+
 
 #
 
