@@ -1,4 +1,4 @@
-# Data Science Portfolio - 
+# Data Analytic Portfolio
 This Portfolio is a compilation of all the Data Analytic projects that I have completed in my academic studies as well as for hobby.
 
 - **Email**: [natalie.k.eversole@gmail.com](natalie.k.eversole@gmail.com)
