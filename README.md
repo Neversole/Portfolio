@@ -21,6 +21,7 @@ This project uses Amazon product metadata to produce a graphical user interface 
 
 This project uses NYC flight dataset to implement a QDA model that predicts if a flight observation belongs to a specific carrier.
 
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Neversole/Portfolio/blob/main/Images/WineStock.jpg"> **[Wine Quality Prediction](https://github.com/Neversole/Wine-quality-prediction.git)**
