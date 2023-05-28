@@ -19,7 +19,7 @@ This project uses Amazon product metadata to produce a graphical user interface 
 
 <img align="left" width="250" height="150" src="https://github.com/Neversole/Portfolio/blob/main/Images/Runway.jpg"> **[Flight Carrier Predictor](https://github.com/Neversole/Flight-Carrier-Prediction.git)**
 
-
+This project implements a QDA model to predict if a flight observation belongs to a specific carrier.
 
 #
 
