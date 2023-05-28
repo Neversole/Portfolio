@@ -17,6 +17,12 @@ This project uses Amazon product metadata to produce a graphical user interface 
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/Neversole/Portfolio/blob/main/Images/Books.jpg"> **[Flight Carrier Predictor](https://github.com/Neversole/Flight-Carrier-Predictor.git)**
+
+
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/Neversole/Portfolio/blob/main/Images/WineStock.jpg"> **[Wine Quality Prediction](https://github.com/Neversole/Wine-quality-prediction.git)**
 
 This project implements a machine learning model to predict the quality of red wines. An analysis was also performed to determine the factors that effect the quality of wine.
