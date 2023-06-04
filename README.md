@@ -19,7 +19,7 @@ This project uses Amazon product metadata to produce a graphical user interface 
 
 <img align="left" width="250" height="150" src="https://github.com/Neversole/Portfolio/blob/main/Images/Runway.jpg"> **[Flight Carrier Prediction](https://github.com/Neversole/Flight-Carrier-Prediction.git)**
 
-This project uses NYC flight dataset to implement a QDA model that predicts if a flight observation belongs to a specific carrier.
+This project uses a New York City flight dataset to implement a QDA machine learning model. The model predicts if a flight observation belongs to a specific airline.
 
 
 #
@@ -30,7 +30,7 @@ This project implements a random forest machine learning model to predict the qu
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Neversole/Portfolio/blob/main/Images/WineStock.jpg"> **[Yelp Business Search Engine](https://github.com/Neversole/Yelp-Search-Engine.git)**
+<img align="left" width="250" height="150" src="https://github.com/Neversole/Portfolio/blob/main/Images/business.jpg"> **[Yelp Business Search Engine](https://github.com/Neversole/Yelp-Search-Engine.git)**
 
 This project uses Yelp business and review metadata to produce a graphical user interface search engine. The user interface enables users to view details about Yelp business after selecting a business category or a state, city and/or zip code.
 
