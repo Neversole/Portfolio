@@ -1,5 +1,5 @@
 # Data Analytic Portfolio
-This Portfolio is a compilation of all the Data Analytic projects that I have completed in my academic studies as well as for hobby.
+This Portfolio is a compilation of all the Data Analytic projects that I have completed during my academic studies as well as projects I have completed for hobby.
 
 - **LinkedIn**: [linkedin.com/natalie-eversole](https://www.linkedin.com/in/natalie-eversole/)
 
