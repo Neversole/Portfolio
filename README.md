@@ -26,8 +26,12 @@ This project uses NYC flight dataset to implement a QDA model that predicts if a
 
 <img align="left" width="250" height="150" src="https://github.com/Neversole/Portfolio/blob/main/Images/WineStock.jpg"> **[Wine Quality Prediction](https://github.com/Neversole/Wine-quality-prediction.git)**
 
-This project implements a machine learning model to predict the quality of red wines. An analysis was also performed to determine the factors that effect the quality of wine.
+This project implements a random forest machine learning model to predict the quality of red wines based on 11 different factors. An analysis was also performed to determine the factors that effect the quality of wine.
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/Neversole/Portfolio/blob/main/Images/WineStock.jpg"> **[Yelp Business Search Engine](https://github.com/Neversole/yelp-search-engine.git)**
 
+This project implements a machine learning model to predict the quality of red wines. An analysis was also performed to determine the factors that effect the quality of wine.
+
+#
