@@ -25,7 +25,7 @@ This project uses Yelp business and review metadata to produce a graphical user 
 
 <img align="left" width="235" height="135" src="https://github.com/Neversole/Portfolio/blob/main/Images/Runway.jpg"> **[Flight Carrier Prediction](https://github.com/Neversole/Flight-Carrier-Prediction.git)**
 
-This project uses a New York City flight dataset to implement a quadratic discriminant analysis machine learning model. The model predicts if a flight observation belongs to a specific airline.
+This project uses a New York City flight dataset to implement a quadratic discriminant analysis machine learning model. The model predicts if a flight observation belongs to one of three different commercial airlines.
 
 #
 
